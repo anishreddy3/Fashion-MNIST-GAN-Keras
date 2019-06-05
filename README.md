@@ -1,6 +1,6 @@
 # Deep Convolutional Generative Adversarial Networks 
 
-### Trained on Fashion_MNIST dataset using Keras Sequential API and Tensorflow
+### Trained on Fashion_MNIST dataset using Keras Sequential API and Tensorflow gradient tape training loop
 
 Generative Adversarial Networks have two components:
 
